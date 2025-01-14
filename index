@@ -1,7 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buchungskalender</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        iframe {
+            border: none;
+            width: 100%;
+            max-width: 1200px;
+            height: 600px;
+        }
+    </style>
+</head>
 <body>
-    <h1>Buchhungskalender</h1>
+    <h1>Buchungskalender</h1>
     <iframe src="https://script.google.com/macros/s/AKfycby0pX091y95sya8rPirqpDDTcoRasYZsoThMHP87rmmD_fEF3cJQAG3W2JfWRl6gyrC/exec"></iframe>
 </body>
 </html>
